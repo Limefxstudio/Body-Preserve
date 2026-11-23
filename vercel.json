@@ -1,0 +1,4 @@
+{
+  "version": 2,
+  "functions": {"api/lead.js": {"maxDuration": 20}}
+}
